@@ -35,6 +35,9 @@ sudo apt-get install -y can-utils
 # Add OpenOCD and GNU Arm Embedded Toolchain
 sudo apt-get install -y openocd gcc-arm-none-eabi
 
+# Add Doxygen
+sudo apt-get install -y doxygen
+
 # Install text editor
 sudo apt-get install -y gedit
 
